@@ -1,5 +1,5 @@
 # Sales Dashboard – Excel Project
-![Sales Dashboar](Sales_Dashboard/Sales_Dashboard.png)
+![Sales Dashboar](Sales_Dashboard.png)
 
 
 This repository contains my first Excel dashboard project, where I applied the complete data analysis workflow from raw data to insights.
